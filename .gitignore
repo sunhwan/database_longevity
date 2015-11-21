@@ -1,0 +1,4 @@
+nar_database/cache/*
+nar_database/exceptions/*
+*.pyc
+.DS_Store
